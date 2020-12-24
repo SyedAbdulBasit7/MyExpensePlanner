@@ -1,6 +1,13 @@
-# expenseplanner
+# My Expense Planner
 
 A new Flutter application.
+
+<img src="/Snapshots/Capture+_2020-12-24-15-13-49.png">
+<br>
+<img src="/Snapshots/Capture+_2020-12-24-15-14-33.png">
+<br>
+<img src="/Snapshots/Capture+_2020-12-24-15-15-26.png">
+<br>
 
 ## Getting Started
 
